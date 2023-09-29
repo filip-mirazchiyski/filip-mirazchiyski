@@ -3,6 +3,23 @@
 <p align="center"><a href="https://github.com/filip-mirazchiyski"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Filip+Mirazchiyski%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
 
 <div align="center">
+
+## ⭐ About Me</br>
+</div>
+
+<br />
+<p align="center">
+My name is Filip Mirazchiyski.
+<br />
+I am currently studiyng both Python and Java. 
+<br />
+I work as a Web Production Lead at a Fortune 500 company. 
+<br />
+I am passionate about learning new things all the time.
+</p>
+
+
+<div align="center">
   
 ## :mailbox: Connect with Me</br>
 </div>
