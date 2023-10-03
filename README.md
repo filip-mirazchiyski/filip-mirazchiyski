@@ -11,11 +11,11 @@
 <p align="center">
 My name is Filip Mirazchiyski.
 <br />
-I am currently studiyng both Python and Java. 
+Currently studiyng both Python and Java. 
 <br />
-I work as a Web Production Lead at a Fortune 500 company. 
+Working as a Web Production Lead at a Fortune 500 company. 
 <br />
-I am passionate about learning new things all the time.
+Passionate about learning new things all the time.
 </p>
 
 
